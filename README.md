@@ -3,7 +3,8 @@
 
 ## Обо мне 
 <h1 align="center">Привет, меня зовут <a href="https://github.com/IvanTrishkin" target="_blank">Иван</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" alt="Привет" />
+</h1>
 <h3 align="center">Я начинающий тестировщик.
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 </h3>
