@@ -4,10 +4,9 @@
 ## Обо мне 
 <h1 align="center">Привет, меня зовут <a href="https://github.com/IvanTrishkin" target="_blank">Иван</a></h1>
 <p align="center">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" alt="Привет" width="32" height="32">
+  <a href="https://github.com/IvanTrishkin" target="_blank"> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" alt="Привет" width="32" height="32"> </a>
 </p>
 <h3 align="center">Я начинающий тестировщик.<br>В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.</h3>
-
 ## Навыки и технологии
 ``Jira``,``qase.io``,``SQL``,`` Postman``,``Fiddler``, ``Swagger``, ``Trello``, <br>
 ``SoapUI``, ``Android Studio``, ``xCode``, ``Charles``, ``Git``, ``Chrome DevTools``.
