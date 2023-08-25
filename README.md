@@ -7,19 +7,8 @@
 
 
 ## Навыки и технологии
-- ![Jira](https://img.icons8.com/color/48/000000/jira.png) Jira
-- ![qase.io](https://img.icons8.com/color/48/000000/api-settings.png) qase.io
-- ![SQL](https://img.icons8.com/color/48/000000/database-restore.png) SQL
-- ![Postman](https://img.icons8.com/color/48/000000/api-testing.png) Postman
-- ![Fiddler](https://img.icons8.com/color/48/000000/network-proxy.png) Fiddler
-- ![Swagger](https://img.icons8.com/color/48/000000/swagger.png) Swagger
-- ![Trello](https://img.icons8.com/color/48/000000/trello.png) Trello
-- ![SoapUI](https://img.icons8.com/color/48/000000/soapui.png) SoapUI
-- ![Android Studio](https://img.icons8.com/color/48/000000/android-studio.png) Android Studio
-- ![xCode](https://img.icons8.com/color/48/000000/xcode.png) xCode
-- ![Charles](https://img.icons8.com/color/48/000000/charles-proxy.png) Charles
-- ![Git](https://img.icons8.com/color/48/000000/git.png) Git
-- ![Chrome DevTools](https://img.icons8.com/color/48/000000/chrome.png) Chrome DevTools
+``Jira``,``qase.io``,``SQL``,`` Postman``,``Fiddler``, ``Swagger``, ``Trello``, <br>
+``SoapUI``, ``Android Studio``, ``xCode``, ``Charles``, ``Git``, ``Chrome DevTools``.
 
 
 
