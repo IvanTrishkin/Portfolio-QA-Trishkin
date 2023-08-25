@@ -32,8 +32,8 @@
 <p>Как решала(-а): краткое описание решения (автореферат)<p>
 
 > <a href="https://shattdafukkup.atlassian.net/wiki/spaces/1/overview">Ссылка на проект</a>
-> <p> логин: dehico8286@fsouda.com </p>
-> <p> пароль: 16Jan2023 </p>
+> <p> логин: shattdafukkup@gmail.com </p>
+> <p> пароль: fywfa6-zurpEf-nyxdem </p>
  
  <p>Выводы (итоги):<p>
 <ol>
