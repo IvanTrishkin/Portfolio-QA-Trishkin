@@ -7,19 +7,20 @@
 
 
 ## Навыки и технологии
-- <i class="fas fa-jira"></i> Jira
-- <i class="fas fa-cogs"></i> qase.io
-- <i class="fas fa-database"></i> SQL
-- <i class="fas fa-paper-plane"></i> Postman
-- <i class="fas fa-bug"></i> Fiddler
-- <i class="fas fa-code"></i> Swagger
-- <i class="fas fa-trello"></i> Trello
-- <i class="fas fa-soap"></i> SoapUI
-- <i class="fab fa-android"></i> Android Studio
-- <i class="fab fa-apple"></i> xCode
-- <i class="fas fa-search"></i> Charles
-- <i class="fab fa-git"></i> Git
-- <i class="fab fa-chrome"></i> Chrome DevTools
+- ![Jira](https://img.icons8.com/color/48/000000/jira.png) Jira
+- ![qase.io](https://img.icons8.com/color/48/000000/api-settings.png) qase.io
+- ![SQL](https://img.icons8.com/color/48/000000/database-restore.png) SQL
+- ![Postman](https://img.icons8.com/color/48/000000/postman-api.png) Postman
+- ![Fiddler](https://img.icons8.com/color/48/000000/web-debugging-proxy.png) Fiddler
+- ![Swagger](https://img.icons8.com/color/48/000000/swagger.png) Swagger
+- ![Trello](https://img.icons8.com/color/48/000000/trello.png) Trello
+- ![SoapUI](https://img.icons8.com/color/48/000000/soapui.png) SoapUI
+- ![Android Studio](https://img.icons8.com/color/48/000000/android-studio.png) Android Studio
+- ![xCode](https://img.icons8.com/color/48/000000/xcode.png) xCode
+- ![Charles](https://img.icons8.com/color/48/000000/charles-proxy.png) Charles
+- ![Git](https://img.icons8.com/color/48/000000/git.png) Git
+- ![Chrome DevTools](https://img.icons8.com/color/48/000000/chrome.png) Chrome DevTools
+
 
 
 
