@@ -6,20 +6,19 @@
 <h3 align="center">Я начинающий тестировщик.<br>В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.</h3>
 
 ## Навыки и технологии
-- ![Jira](https://img.icons8.com/color/48/000000/jira.png) Jira
-- ![qase.io](https://img.icons8.com/color/48/000000/api-settings.png) qase.io
-- ![SQL](https://img.icons8.com/color/48/000000/database-restore.png) SQL
-- ![Postman](https://img.icons8.com/color/48/000000/postman-api.png) Postman
-- ![Fiddler](https://img.icons8.com/color/48/000000/web-debugging-proxy.png) Fiddler
-- ![Swagger](https://img.icons8.com/color/48/000000/swagger.png) Swagger
-- ![Trello](https://img.icons8.com/color/48/000000/trello.png) Trello
-- ![SoapUI](https://img.icons8.com/color/48/000000/soapui.png) SoapUI
-- ![Android Studio](https://img.icons8.com/color/48/000000/android-studio.png) Android Studio
-- ![xCode](https://img.icons8.com/color/48/000000/xcode.png) xCode
-- ![Charles](https://img.icons8.com/color/48/000000/charles-proxy.png) Charles
-- ![Git](https://img.icons8.com/color/48/000000/git.png) Git
-- ![Chrome DevTools](https://img.icons8.com/color/48/000000/chrome.png) Chrome DevTools
-
+- <img src="https://img.icons8.com/color/24/000000/jira.png"/> Jira
+- <img src="https://img.icons8.com/color/24/000000/api-settings.png"/> qase.io
+- <img src="https://img.icons8.com/color/24/000000/database-restore.png"/> SQL
+- <img src="https://img.icons8.com/color/24/000000/postman-api.png"/> Postman
+- <img src="https://img.icons8.com/color/24/000000/web-debugging-proxy.png"/> Fiddler
+- <img src="https://img.icons8.com/color/24/000000/swagger.png"/> Swagger
+- <img src="https://img.icons8.com/color/24/000000/trello.png"/> Trello
+- <img src="https://img.icons8.com/color/24/000000/soapui.png"/> SoapUI
+- <img src="https://img.icons8.com/color/24/000000/android-studio.png"/> Android Studio
+- <img src="https://img.icons8.com/color/24/000000/xcode.png"/> xCode
+- <img src="https://img.icons8.com/color/24/000000/charles-proxy.png"/> Charles
+- <img src="https://img.icons8.com/color/24/000000/git.png"/> Git
+- <img src="https://img.icons8.com/color/24/000000/chrome.png"/> Chrome DevTools
 
 
 
