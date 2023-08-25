@@ -6,19 +6,19 @@
 <h3 align="center">Я начинающий тестировщик.<br>В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.</h3>
 
 ## Навыки и технологии
-- <img src="https://img.icons8.com/color/24/000000/jira.png"/> Jira
-- <img src="https://img.icons8.com/color/24/000000/api-settings.png"/> qase.io
-- <img src="https://img.icons8.com/color/24/000000/database-restore.png"/> SQL
-- <img src="https://img.icons8.com/color/24/000000/postman-api.png"/> Postman
-- <img src="https://img.icons8.com/color/24/000000/web-debugging-proxy.png"/> Fiddler
-- <img src="https://img.icons8.com/color/24/000000/swagger.png"/> Swagger
-- <img src="https://img.icons8.com/color/24/000000/trello.png"/> Trello
-- <img src="https://img.icons8.com/color/24/000000/soapui.png"/> SoapUI
-- <img src="https://img.icons8.com/color/24/000000/android-studio.png"/> Android Studio
-- <img src="https://img.icons8.com/color/24/000000/xcode.png"/> xCode
-- <img src="https://img.icons8.com/color/24/000000/charles-proxy.png"/> Charles
-- <img src="https://img.icons8.com/color/24/000000/git.png"/> Git
-- <img src="https://img.icons8.com/color/24/000000/chrome.png"/> Chrome DevTools
+- <i class="fa fa-jira fa-lg"></i> Jira
+- <i class="fa fa-cogs fa-lg"></i> qase.io
+- <i class="fa fa-database fa-lg"></i> SQL
+- <i class="fa fa-paper-plane fa-lg"></i> Postman
+- <i class="fa fa-bug fa-lg"></i> Fiddler
+- <i class="fa fa-code fa-lg"></i> Swagger
+- <i class="fa fa-trello fa-lg"></i> Trello
+- <i class="fa fa-soap fa-lg"></i> SoapUI
+- <i class="fa fa-android fa-lg"></i> Android Studio
+- <i class="fa fa-apple fa-lg"></i> xCode
+- <i class="fa fa-search fa-lg"></i> Charles
+- <i class="fa fa-git fa-lg"></i> Git
+- <i class="fa fa-chrome fa-lg"></i> Chrome DevTools
 
 
 
