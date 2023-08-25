@@ -5,20 +5,22 @@
 <h1 align="center">Привет, меня зовут <a href="https://github.com/IvanTrishkin" target="_blank">Иван</a><span>&nbsp;&nbsp;<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" alt="Привет" width="32" height="32"></span></h1>
 <h3 align="center">Я начинающий тестировщик.<br>В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.</h3>
 
+
 ## Навыки и технологии
-- <i class="fa fa-jira fa-lg"></i> Jira
-- <i class="fa fa-cogs fa-lg"></i> qase.io
-- <i class="fa fa-database fa-lg"></i> SQL
-- <i class="fa fa-paper-plane fa-lg"></i> Postman
-- <i class="fa fa-bug fa-lg"></i> Fiddler
-- <i class="fa fa-code fa-lg"></i> Swagger
-- <i class="fa fa-trello fa-lg"></i> Trello
-- <i class="fa fa-soap fa-lg"></i> SoapUI
-- <i class="fa fa-android fa-lg"></i> Android Studio
-- <i class="fa fa-apple fa-lg"></i> xCode
-- <i class="fa fa-search fa-lg"></i> Charles
-- <i class="fa fa-git fa-lg"></i> Git
-- <i class="fa fa-chrome fa-lg"></i> Chrome DevTools
+- <i class="fas fa-jira"></i> Jira
+- <i class="fas fa-cogs"></i> qase.io
+- <i class="fas fa-database"></i> SQL
+- <i class="fas fa-paper-plane"></i> Postman
+- <i class="fas fa-bug"></i> Fiddler
+- <i class="fas fa-code"></i> Swagger
+- <i class="fas fa-trello"></i> Trello
+- <i class="fas fa-soap"></i> SoapUI
+- <i class="fab fa-android"></i> Android Studio
+- <i class="fab fa-apple"></i> xCode
+- <i class="fas fa-search"></i> Charles
+- <i class="fab fa-git"></i> Git
+- <i class="fab fa-chrome"></i> Chrome DevTools
+
 
 
 
